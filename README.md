@@ -1,31 +1,27 @@
-# Data Visualization com Seaborn
+# Data Visualization with Seaborn
 
-Este repositório demonstra como criar visualizações de dados.
+This repository demonstrates how to create data visualizations.
 
 ## Line Charts
 
-Gráficos de linha são usados para mostrar a evolução de dados ao longo do tempo ou outra variável contínua.
+Line charts are used to show the evolution of data over time or another continuous variable.
 
 ## Bar Charts & Heatmaps
 
 ### Bar Charts
 
-Gráficos de barra são úteis para comparar diferentes categorias.
+Bar charts are useful for comparing different categories.
 
 ### Heatmaps
 
-Mapas de calor mostram dados matriciais através de cores, facilitando a identificação de padrões.
+Heatmaps display matrix data through colors, making it easier to identify patterns.
 
 ## Scatterplots
 
-Gráficos de dispersão ilustram a relação entre duas variáveis contínuas, ajudando a identificar correlações e padrões.
+Scatterplots illustrate the relationship between two continuous variables, helping to identify correlations and patterns.
 
-## Distribuição
+## Distribution
 
-### Histograma
+### Histogram
 
-Histogramas mostram a distribuição de uma variável ao longo de intervalos de valores.
-
-### Boxplot
-
-Boxplots comparam a distribuição de uma variável entre diferentes categorias, destacando medianas e outliers.
+Histograms show the distribution of a variable over intervals of values.
